@@ -1,13 +1,16 @@
 # Meadowlark UX Design Document
 
-(*TODO: overview*)
+The UX design of Meadowlark is to create a friendly, but still heavily utilizable platform for musicians to create music. As a result, the design aspects of the UX are created to increase customizability while still keeping a clean space for visualizing the entire composure of the song. As a result of making a easy to use platform for all users, the UX is designed to be both MacOS and Windows friendly. Many features that are included in other music editing software are included in Meadowlark to give a seamless creation process for users.
 
 # Objective
 
-(*TODO*)
+The main objective of the UX is to be functional and simple, making for easy customizability. This starts with the various options that a user may have when trying to create a song. They can edit the file types and also customize their view of the window. The channel rack enables users to look at all the instruments being used in a single track, also giving them the ability to modify how the sounds are integrated. The patterns section is where users are able to view the pertaining patterns of notes used from each of the instruments in the channel rack. The main objective of the Meadowlark UX is to enable users with differing skillsets to still manage and make sounds to their liking.
 
 # Goals
-(*TODO*)
+
+One of the largest goals for Meadowlark is to get the various components working together. The browser panel being resizable is something that needs to completed for the UX to be more customizable. Along with this, a variety or other items need to be built to the browser panel including a side-bar, keymap, scroll option when there are too many datapoints, search, tooltips, refresh, preview sample playback, clipping item labels, and the general browser requirements. These goals are currently being worked on, ensuring that the functionality is tested thoroughly. 
+
+As this project is still in the early phases, many features have yet to be worked on and thought through for designing and eventually creating. The browser is definitely one of the most crucial components to work on as the user experience with having a simple and effective way to find anything in a complex software like this is needed. The user's experience should be a flawless interaction with the UI and the best way to ensure that is to enable them to customize their view and be able to find any information or data they need in producing sounds.  
 
 # Non-Goals
 (*TODO*)
